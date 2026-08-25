@@ -149,11 +149,14 @@ These metrics provide a baseline for evaluating the model’s predictive perform
 
 ## License
 
-This project is intended for educational and portfolio purposes. If you plan to publish it publicly on GitHub, you may add a license file such as MIT.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
-Your Name
+Karan Gupta
+
+LinkedIn / Portfolio: [your-link]
+GitHub: [https://github.com/KaranGupta143](https://github.com/KaranGupta143)
 
 ---
 
